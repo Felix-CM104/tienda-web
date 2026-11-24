@@ -34,7 +34,7 @@ Abre `index.html` en el navegador (o usa la extensión *Live Server* de VS Code)
 Pruebas de la lógica del carrito (requiere Node.js 18+):
 
 ```bash
-node --test tests/
+node --test
 ```
 
 ## 🛠️ Tecnologías
